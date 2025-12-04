@@ -209,14 +209,5 @@ Thus classification performance converges when $p$ and $q$ are neutral.
 - `pandas`
 - `numpy`
 
-## 10. Repository Contents
-
-- `cora.content` — node features + labels
-- `cora.cites` — directed citation edges
-- `deepwalk_class.py` — implementation of DeepWalk
-- `node2vec_pipeline.py` — Node2Vec embedding + classification
-- `visualization.py` — t-SNE utilities
-- Full notebook with all experiments
-
 ---
 **Alexandre Mathias DONNAT, Sr**
