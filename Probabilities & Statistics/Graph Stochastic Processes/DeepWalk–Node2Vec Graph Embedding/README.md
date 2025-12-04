@@ -10,7 +10,7 @@ This paper inplements a machine learning pipeline on graph-structured data, usin
 
 **The objective is to:**
 
-- Load and analyze a r al citation network
+- Load and analyze a real citation network
 - Compute structural descriptors of the graph
 - Construct node embeddings using graph-based random walks
 - Train a classifier to predict paper categories
