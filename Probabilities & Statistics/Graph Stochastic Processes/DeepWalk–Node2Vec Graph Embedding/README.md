@@ -2,7 +2,7 @@
 
 **DeepWalk & Node2Vec - Graph Embeddings, Random Walks, and Node Classification**
 
-![t-SNE visualization of Cora graph](https://www.researchgate.net/publication/350417044/figure/fig3/AS:1005852752375810@1616825392442t-SNE-visualization-of-Cora-graph-from-the-raw-features-left-GraphSAGE-mean-middle.png)
+![alt text](fig/fig1.png)
 
 ## 1. About
 
