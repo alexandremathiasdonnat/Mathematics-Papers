@@ -1,4 +1,4 @@
-# Regularization in Linear Regression
+# Regularization in Linear Regression Practice & CaseStudy
 
 ## Objective  
 This notebook models and tests the **four key estimators** in linear regression:  
