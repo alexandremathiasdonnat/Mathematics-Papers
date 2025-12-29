@@ -1,6 +1,7 @@
 # Stochastic Gradient Descent for Binary Classification  
 **Quadratic Loss, Hinge Loss, Regularization, Polyak-Ruppert Averaging & Comparison with Scikit-Learn**
 
+![alt text](figure.png)
 
 ## 1. About
 
