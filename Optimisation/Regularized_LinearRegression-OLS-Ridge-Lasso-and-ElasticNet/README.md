@@ -8,7 +8,6 @@ Starting from the classical OLS formulation, we progressively introduce regulari
 While `scikit-learn` performs these optimizations internally, we explicitly derive the **cost functions**, **partial derivatives (∂)**, and **optimality conditions** to understand what happens *inside the black box*.
 
 ![alt text](figure.png)
----
 
 ## Gradient Principle  
 
