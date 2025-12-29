@@ -1,4 +1,4 @@
-# Quantitative Regularization in Linear Regression
+# Regularization in Linear Regression
 
 ## Objective  
 This notebook models and tests the **four key estimators** in linear regression:  
