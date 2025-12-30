@@ -1,5 +1,5 @@
 # Regularization in Linear Regression Practice & CaseStudy
-
+**OLS Criterion, Ridge, Lasso, ElasticNet**
 ## Objective  
 This notebook models and tests the **four key estimators** in linear regression:  
 **Ordinary Least Squares (OLS)** ; **Ridge (L2)** ; **Lasso (L1)** ; **ElasticNet (L1 + L2)**.  
