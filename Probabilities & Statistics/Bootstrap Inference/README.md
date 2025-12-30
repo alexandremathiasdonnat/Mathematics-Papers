@@ -34,7 +34,7 @@ To assess the sampling variability of $\hat{\beta}_1$, we apply the **bootstrap 
 ## Inference  
 From the empirical distribution of $\hat{\beta}_1^*$:
 - **Normal CI:**  
-    $\hat{\beta}_1 \pm z_{1-\alpha/2} \cdot \text{SE}_{\text{boot}}$
+    $$\hat{\beta}_1 \pm z_{1-\alpha/2} \cdot \text{SE}_{\text{boot}}$$
 - **Percentile CI:**  
     empirical quantiles of $\hat{\beta}_1^*$.
 
