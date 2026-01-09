@@ -1,6 +1,6 @@
 # Mathematics Papers
 
-**Hi there! 👋**
+**Hi there ! 👋**
 
 This repository gathers my mathematical notes, practice, experiments, labs and worked papers covering the core foundations required for modern data science and machine learning. Jupyter is used as an appropriated tool here for its cells of code and markdown LaTex demonstrations, interpretations of results.
 
