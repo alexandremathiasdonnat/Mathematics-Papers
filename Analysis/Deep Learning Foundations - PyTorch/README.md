@@ -2,6 +2,8 @@
 
 **Tensors, Autograd, Neural Networks, Optimization & Generalization**
 
+![fig](figure.png)
+
 ## 1. About
 
 This notebook provides a structured and hands-on introduction to the foundations of deep learning using PyTorch, with an emphasis on understanding how neural networks are built, trained, and evaluated rather than treating them as black-box models.
