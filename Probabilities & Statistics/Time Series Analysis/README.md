@@ -114,7 +114,7 @@ In this notebook I emphasizes: the equivalence between time-domain and frequency
 - `scikit-learn`
 - `statsmodels`
 
-*Dataset aviables upon request*
+*Dataset avaibles upon request*
 
 ---
 ***Alexandre Mathias DONNAT, Sr***
