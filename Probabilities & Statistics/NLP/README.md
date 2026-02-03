@@ -111,6 +111,11 @@ The experimental results highlight several important insights:
 - Topic models are more suitable for document-level representations than word-level aggregation.
 - Prediction-based embeddings benefit from large training corpora and richer aggregation strategies.
 - Most classification errors arise between semantically similar classes, regardless of representation.
+## Ressources used
+
+- Latent Dirichlet Allocation (Blei et al, 2003)
+- word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method (Levy and Goldberg, 2014)
+- Neural Word Embeddings as Implicit Matrix Factorization (Levy and Goldberg, 2014)
 
 ## Core takeaways
 
