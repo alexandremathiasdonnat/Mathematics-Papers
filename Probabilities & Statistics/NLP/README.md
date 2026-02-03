@@ -1,5 +1,5 @@
 # Text Representations for Document Classification  
-*Sparse Models, Topic Modeling & Word Embeddings*
+*Latent variable models: Independent Component Analysis (ICA) and Non-negative Matrix Factorization (NMF) : Sparse Models, Topic Modeling & Word Embeddings*
 
 ![figure](figure.png)
 
