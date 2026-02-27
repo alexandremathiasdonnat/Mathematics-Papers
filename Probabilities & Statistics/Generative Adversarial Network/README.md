@@ -1,6 +1,6 @@
 # Wasserstein GAN with Gradient Penalty
 
-DCGAN Architecture for MNIST Digit Generation (PyTorch Implementation)**
+**DCGAN Architecture for MNIST Digit Generation (PyTorch Implementation)**
 
 ![figure](figure.png) 
 
