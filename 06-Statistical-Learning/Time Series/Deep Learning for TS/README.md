@@ -1,4 +1,4 @@
-# Deep Learning for Financial Time Series Forecasting 
+# Deep Learning for Financial Time Series Forecasting - - Practice & Experiments
 
 **Baselines, MLP, Patch-Based Transformers, Multivariate Signals & Model Comparison**
 
