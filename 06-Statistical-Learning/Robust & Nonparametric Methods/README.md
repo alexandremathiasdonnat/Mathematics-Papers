@@ -2,6 +2,8 @@
 
 **Mahalanobis Depth, Tukey Depth, DD-Plots, Depth-Based Classification & Robustness**
 
+![figure](figure.jpg)
+
 ## 1. About
 
 This notebook provides a progressive experimental study of statistical depth functions and their application to multivariate classification.
