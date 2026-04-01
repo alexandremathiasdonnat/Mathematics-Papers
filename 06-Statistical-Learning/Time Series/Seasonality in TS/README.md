@@ -2,6 +2,7 @@
 
 **Signal Processing, Spectral Analysis & Autoregressive Modeling**
 
+![figure](figure.png)
 
 ## About
 
