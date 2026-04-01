@@ -1,6 +1,8 @@
-# Financial Time Series Forecasting with Yahoo Finance
+# Deep Learning for Financial Time Series Forecasting 
 
 **Baselines, MLP, Patch-Based Transformers, Multivariate Signals & Model Comparison**
+
+![figure](figure.png)
 
 ## 1. About
 
