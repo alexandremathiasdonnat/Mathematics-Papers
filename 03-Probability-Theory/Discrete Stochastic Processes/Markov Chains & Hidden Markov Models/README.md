@@ -1,6 +1,8 @@
 # Hidden Markov Chains
 **Discrete Sequential Modeling, Generative Text Simulation & Likelihood-Based Language Recognition**
 
+![figure](figure.png)
+
 ## About
 This notebook presents a structured and mathematically grounded exploration of discrete-time Markov chains applied to language modeling.
 
