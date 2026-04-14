@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-November 2025
-@author: Thomas Bonald <bonald@enst.fr>
-"""
 import numpy as np
 from collections import defaultdict
 
