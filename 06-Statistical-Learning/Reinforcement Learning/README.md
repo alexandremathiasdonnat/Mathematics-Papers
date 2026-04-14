@@ -1,5 +1,6 @@
-# Reinforcement Learning Labs
+# Reinforcement Learning Practice & Experiments
 **Dynamic Programming, Online Control, Bandits, and Parametric Bandits**
+
 ![figure](figure.png)
 
 
