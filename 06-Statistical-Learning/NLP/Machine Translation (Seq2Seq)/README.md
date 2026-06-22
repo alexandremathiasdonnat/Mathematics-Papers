@@ -35,9 +35,7 @@ $$P(y|x)$$
 
 In practice, the translation is generated token by token:
 
-$$
-P(y|x) = \prod_{t=1}^{S} P(y_t|y_{<t}, x)
-$$
+$$P(y|x) = \prod_{t=1}^{S} P(y_t|y_{<t}, x)$$
 
 This means that each predicted word depends both on the previously generated target words and on the source sentence.
 
@@ -122,9 +120,7 @@ Two decoding strategies are compared.
 
 Greedy decoding selects the most probable next token at each step:
 
-$$
-y_t = \argmax P(y_t | y_{<t}, x)
-$$
+$$y_t = \argmax P(y_t | y_{<t}, x)$$
 
 It is fast, but locally optimal decisions can lead to weaker full translations.
 
